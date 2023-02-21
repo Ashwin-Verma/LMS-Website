@@ -1,0 +1,10 @@
+Library installation :-
+Django==2.2
+django-crispy-forms
+--------------------------
+
+Admin User/pwd :-
+supotronix
+ashwin@123
+
+
